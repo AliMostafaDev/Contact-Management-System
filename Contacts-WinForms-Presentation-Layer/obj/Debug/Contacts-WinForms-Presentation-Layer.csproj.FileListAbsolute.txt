@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\Contacts-WinForms-Presentation-Layer\bin\Debug\Contacts-WinForms-Presentation-Layer.exe.config
+C:\Users\USER\source\repos\Contacts-WinForms-Presentation-Layer\bin\Debug\Contacts-WinForms-Presentation-Layer.exe
+C:\Users\USER\source\repos\Contacts-WinForms-Presentation-Layer\bin\Debug\Contacts-WinForms-Presentation-Layer.pdb
+C:\Users\USER\source\repos\Contacts-WinForms-Presentation-Layer\obj\Debug\Contacts-WinForms-Presentation-Layer.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Contacts-WinForms-Presentation-Layer\obj\Debug\Contacts_WinForms_Presentation_Layer.Properties.Resources.resources
+C:\Users\USER\source\repos\Contacts-WinForms-Presentation-Layer\obj\Debug\Contacts-WinForms-Presentation-Layer.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Contacts-WinForms-Presentation-Layer\obj\Debug\Contacts-WinForms-Presentation-Layer.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Contacts-WinForms-Presentation-Layer\obj\Debug\Contacts-WinForms-Presentation-Layer.exe
+C:\Users\USER\source\repos\Contacts-WinForms-Presentation-Layer\obj\Debug\Contacts-WinForms-Presentation-Layer.pdb
+C:\Users\USER\source\repos\Contacts-WinForms-Presentation-Layer\bin\Debug\ContactsBusinessLayer.dll
+C:\Users\USER\source\repos\Contacts-WinForms-Presentation-Layer\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\USER\source\repos\Contacts-WinForms-Presentation-Layer\bin\Debug\ContactsBusinessLayer.pdb
+C:\Users\USER\source\repos\Contacts-WinForms-Presentation-Layer\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\USER\source\repos\Contacts-WinForms-Presentation-Layer\obj\Debug\Contacts_WinForms_Presentation_Layer.frmListContacts.resources
+C:\Users\USER\source\repos\Contacts-WinForms-Presentation-Layer\obj\Debug\Contacts-WinForms-Presentation-Layer.csproj.CopyComplete
+C:\Users\USER\source\repos\Contacts-WinForms-Presentation-Layer\obj\Debug\Contacts_WinForms_Presentation_Layer.frmAddEditContact.resources

@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\ContactsBusinessLayer\bin\Debug\ContactsBusinessLayer.dll
+C:\Users\USER\source\repos\ContactsBusinessLayer\bin\Debug\ContactsBusinessLayer.pdb
+C:\Users\USER\source\repos\ContactsBusinessLayer\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\USER\source\repos\ContactsBusinessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\USER\source\repos\ContactsBusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ContactsBusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ContactsBusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\USER\source\repos\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.dll
+C:\Users\USER\source\repos\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.pdb
